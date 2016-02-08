@@ -1,0 +1,41 @@
+{
+"type": "FeatureCollection",
+"data_type":"Dataset",
+"metadata":{
+    "title":"Childcare",
+    "description":"This dataset contains the location of childcare facilities as of Spring 2015.",
+    "extent":[-82.7867,36.3145,-76.1781,38.3637],
+    "geometry_types":["point"],
+    "links":{
+        "kml":"//newmaps.uky.edu/sites/default/files/Childcare_0.kml",
+        "zip":"//newmaps.uky.edu/sites/default/files/Childcare_0.zip",
+        "geoJSON":"//newmaps.uky.edu/sites/default/files/Childcare.geojson"
+    }
+},
+
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Kids Unlimited", "ADDRESS": "1527 N Limestone", "CITY": "Lexington", "STATE": "KY", "X": -84.471790, "Y": 38.064110 }, "geometry": { "type": "Point", "coordinates": [ -84.4717878, 38.064113 ] } },
+{ "type": "Feature", "properties": { "NAME": "Kids Cozy Cottage", "ADDRESS": "1451 Bryan Ave.", "CITY": "Lexington", "STATE": "KY", "X": -84.467050, "Y": 38.059830 }, "geometry": { "type": "Point", "coordinates": [ -84.467046, 38.059829 ] } },
+{ "type": "Feature", "properties": { "NAME": "Children's Spot", "ADDRESS": "1016 N Limestone", "CITY": "Lexington", "STATE": "KY", "X": -84.477160, "Y": 38.059960 }, "geometry": { "type": "Point", "coordinates": [ -84.477158, 38.059959 ] } },
+{ "type": "Feature", "properties": { "NAME": "Creative Child", "ADDRESS": "848 N Limestone", "CITY": "Lexington", "STATE": "KY", "X": -84.480020, "Y": 38.058050 }, "geometry": { "type": "Point", "coordinates": [ -84.480018, 38.058045 ] } },
+{ "type": "Feature", "properties": { "NAME": "abc123 Learning Center", "ADDRESS": "285 E 6th St.", "CITY": "Lexington", "STATE": "KY", "X": -84.482550, "Y": 38.050710 }, "geometry": { "type": "Point", "coordinates": [ -84.482551, 38.050712 ] } },
+{ "type": "Feature", "properties": { "NAME": "Marino's Daycare", "ADDRESS": "130 W 5th St.", "CITY": "Lexington", "STATE": "KY", "X": -84.489380, "Y": 38.052970 }, "geometry": { "type": "Point", "coordinates": [ -84.48938, 38.052969 ] } },
+{ "type": "Feature", "properties": { "NAME": "Jump Start", "ADDRESS": "435 Race St.", "CITY": "Lexington", "STATE": "KY", "X": -84.483650, "Y": 38.046240 }, "geometry": { "type": "Point", "coordinates": [ -84.483651, 38.046236 ] } },
+{ "type": "Feature", "properties": { "NAME": "Children's Treehouse", "ADDRESS": "309 Ohio St.", "CITY": "Lexington", "STATE": "KY", "X": -84.488100, "Y": 38.045960 }, "geometry": { "type": "Point", "coordinates": [ -84.488095, 38.045958 ] } },
+{ "type": "Feature", "properties": { "NAME": "Kidz Konnection", "ADDRESS": "1020 Industry Rd.", "CITY": "Lexington", "STATE": "KY", "X": -84.460040, "Y": 38.044290 }, "geometry": { "type": "Point", "coordinates": [ -84.4600438, 38.044287 ] } },
+{ "type": "Feature", "properties": { "NAME": "Healthy Start", "ADDRESS": "650 Newtown Pike", "CITY": "Lexington", "STATE": "KY", "X": -84.498530, "Y": 38.064750 }, "geometry": { "type": "Point", "coordinates": [ -84.4985258, 38.0647476 ] } },
+{ "type": "Feature", "properties": { "NAME": "Our Magic Years", "ADDRESS": "866 Georgetown St.", "CITY": "Lexington", "STATE": "KY", "X": -84.503340, "Y": 38.070150 }, "geometry": { "type": "Point", "coordinates": [ -84.5033424, 38.0701488 ] } },
+{ "type": "Feature", "properties": { "NAME": "Megamindseducare", "ADDRESS": "670 Lima Dr.", "CITY": "Lexington", "STATE": "KY", "X": -84.507490, "Y": 38.072810 }, "geometry": { "type": "Point", "coordinates": [ -84.5074927, 38.0728071 ] } },
+{ "type": "Feature", "properties": { "NAME": "Growing Together", "ADDRESS": "599 Lima Dr.", "CITY": "Lexington", "STATE": "KY", "X": -84.508180, "Y": 38.073210 }, "geometry": { "type": "Point", "coordinates": [ -84.508175, 38.073206 ] } },
+{ "type": "Feature", "properties": { "NAME": "West End Empowerment Project", "ADDRESS": "498 Georgetown St.", "CITY": "Lexington", "STATE": "KY", "X": -84.501420, "Y": 38.062380 }, "geometry": { "type": "Point", "coordinates": [ -84.501418, 38.062384 ] } },
+{ "type": "Feature", "properties": { "NAME": "Quinn Chapel", "ADDRESS": "744 Charles Ave.", "CITY": "Lexington", "STATE": "KY", "X": -84.502880, "Y": 38.060430 }, "geometry": { "type": "Point", "coordinates": [ -84.5028789, 38.060428 ] } },
+{ "type": "Feature", "properties": { "NAME": "Playhouse", "ADDRESS": "1440 N Forbes Rd.", "CITY": "Lexington", "STATE": "KY", "X": -84.519860, "Y": 38.065980 }, "geometry": { "type": "Point", "coordinates": [ -84.519857, 38.065981 ] } },
+{ "type": "Feature", "properties": { "NAME": "Little Rascals", "ADDRESS": "1410 N Forbes Rd.", "CITY": "Lexington", "STATE": "KY", "X": -84.519770, "Y": 38.065250 }, "geometry": { "type": "Point", "coordinates": [ -84.5197741, 38.0652531 ] } },
+{ "type": "Feature", "properties": { "NAME": "Salvation Army", "ADDRESS": "736 W Main St.", "CITY": "Lexington", "STATE": "KY", "X": -84.505230, "Y": 38.052770 }, "geometry": { "type": "Point", "coordinates": [ -84.5052333, 38.0527742 ] } },
+{ "type": "Feature", "properties": { "NAME": "Imagination Station", "ADDRESS": "585 W Main St.", "CITY": "Lexington", "STATE": "KY", "X": -84.502430, "Y": 38.051230 }, "geometry": { "type": "Point", "coordinates": [ -84.5024313, 38.0512287 ] } },
+{ "type": "Feature", "properties": { "NAME": "Kare Bears", "ADDRESS": "1697 Peabody Way", "CITY": "Lexington", "STATE": "KY", "X": -84.526950, "Y": 38.067410 }, "geometry": { "type": "Point", "coordinates": [ -84.5269458, 38.067406 ] } },
+{ "type": "Feature", "properties": { "NAME": "New Life", "ADDRESS": "224 N MLK Blvd.", "CITY": "Lexington", "STATE": "KY", "X": -84.491060, "Y": 38.047540 }, "geometry": { "type": "Point", "coordinates": [ -84.491058, 38.047541 ] } }
+]
+}
