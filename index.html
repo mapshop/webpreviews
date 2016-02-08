@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Bluegrass Trust Award Sites</title>
 	<meta charset="utf-8" />
 
 	<!-- Leaflet stylesheet -->
@@ -134,7 +133,7 @@
 		        onEachFeature: function(feature, layer) {   
 		            var props = layer.feature.properties;
 		            
-		            layer.bindPopup("<b>"+props.address+"</b>");
+		            layer.bindPopup("<b>"+props.display+"</b>");
 		                
 		        }
 		    }).addTo(map);
