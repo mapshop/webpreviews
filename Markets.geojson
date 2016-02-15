@@ -1,0 +1,34 @@
+{
+"type": "FeatureCollection",
+"data_type":"Dataset",
+"metadata":{
+    "title":"Markets ",
+    "description":"This dataset contains the location of neighborhood Markets as of Spring 2015.",
+    "extent":[-82.7867,36.3145,-76.1781,38.3637],
+    "geometry_types":["point"],
+    "links":{
+        "kml":"//newmaps.uky.edu/sites/default/files/Markets_0.kml",
+        "zip":"//newmaps.uky.edu/sites/default/files/Markets_0.zip",
+        "geoJSON":"//newmaps.uky.edu/sites/default/files/Markets.geojson_0"
+    }
+},
+
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "George's Deli", "Address": "161 North Limestone St, Lexington, KY 40507, United States", "Street": "161 North Limestone", "Zipcode": 40507, "Phone": "(859) 254-6741", "Latitude": 38.047632, "Longitude": -84.495641, "Hours": null, "SNAP": "Unknown" }, "geometry": { "type": "Point", "coordinates": [ -84.495641, 38.047632 ] } },
+{ "type": "Feature", "properties": { "Name": "Town Branch Market", "Address": "233 E Main St, Lexington, KY 40507, United States", "Street": "233 E Main St", "Zipcode": 40507, "Phone": "(859) 280-2122", "Latitude": 38.044280, "Longitude": -84.494297, "Hours": "7:30am-6:00pm week, 9:00am-3:00pm Sat., closed Sunday", "SNAP": "Unknown" }, "geometry": { "type": "Point", "coordinates": [ -84.494297, 38.04428 ] } },
+{ "type": "Feature", "properties": { "Name": "Ohio St Market", "Address": "368 Ohio St, Lexington, KY 40508, United States", "Street": "368 Ohio St", "Zipcode": 40508, "Phone": "(859) 252-9758", "Latitude": 38.046802, "Longitude": -84.486159, "Hours": null, "SNAP": "Unknown" }, "geometry": { "type": "Point", "coordinates": [ -84.486159, 38.046802 ] } },
+{ "type": "Feature", "properties": { "Name": "Our Market", "Address": "201 East 5th St, Lexington, KY 40508, United States", "Street": "201 East 5th", "Zipcode": 40508, "Phone": "(859) 231-3728", "Latitude": 38.051041, "Longitude": -84.486478, "Hours": null, "SNAP": "Unknown" }, "geometry": { "type": "Point", "coordinates": [ -84.486478, 38.051041 ] } },
+{ "type": "Feature", "properties": { "Name": "F & D Market", "Address": "573 Elm Tree Lane, Lexington, KY 40508, United States", "Street": "573 Elm Tree Lane", "Zipcode": 40508, "Phone": "(859) 225-3151", "Latitude": 38.050428, "Longitude": -84.483279, "Hours": "8:00am-7:00pm week, 9:00am-2:00pm Sun.", "SNAP": "Yes" }, "geometry": { "type": "Point", "coordinates": [ -84.483279, 38.050428 ] } },
+{ "type": "Feature", "properties": { "Name": "Griffith's Market", "Address": "427 East 6th St, Lexington, KY 40508 United States", "Street": "427 East 6th St", "Zipcode": 40508, "Phone": "(859) 254-7841", "Latitude": 38.049083, "Longitude": -84.480393, "Hours": "9:00am-9:00pm week, 9:00am-6:00pm weekends", "SNAP": "Yes" }, "geometry": { "type": "Point", "coordinates": [ -84.480393, 38.049083 ] } },
+{ "type": "Feature", "properties": { "Name": "Subcity Market", "Address": "500 East 7th St, Lexington, KY 40505, United States", "Street": "500 East 7th St", "Zipcode": 40508, "Phone": "(859) 233-2296", "Latitude": 38.049392, "Longitude": -84.477535, "Hours": "8:00am-11:00pm Mon to Thurs, 10:00am-1:00am Fri. to Sat, 1:00pm-9:00pm Sun", "SNAP": "No" }, "geometry": { "type": "Point", "coordinates": [ -84.477535, 38.049392 ] } },
+{ "type": "Feature", "properties": { "Name": "Neighborhood Grocery", "Address": "215 East 7th St, Lexington, KY 40508, United States", "Street": "215 East 7th St", "Zipcode": 40508, "Phone": "(859) 231-1140", "Latitude": 38.053172, "Longitude": -84.481443, "Hours": "Early -8:00pm Mon to Sat, closed Sunday", "SNAP": "Yes" }, "geometry": { "type": "Point", "coordinates": [ -84.481443, 38.053172 ] } },
+{ "type": "Feature", "properties": { "Name": "Progress Market", "Address": "600 North Limestone St, Lexington, KY 40508, United States", "Street": "600 North Limestone St", "Zipcode": 40508, "Phone": "(859) 254-3381", "Latitude": 38.053804, "Longitude": -84.485930, "Hours": "9:ooam-9:00pm weekly", "SNAP": "Yes" }, "geometry": { "type": "Point", "coordinates": [ -84.48593, 38.053804 ] } },
+{ "type": "Feature", "properties": { "Name": "Mini Mart", "Address": "705 E Loudon Ave, Lexington, KY 40505", "Street": "705 E Loudon Ave", "Zipcode": 40505, "Phone": "(859) 225-0727", "Latitude": 38.047972, "Longitude": -84.468706, "Hours": null, "SNAP": "Unknown" }, "geometry": { "type": "Point", "coordinates": [ -84.468706, 38.047972 ] } },
+{ "type": "Feature", "properties": { "Name": "Marathon Foodmart", "Address": "647 W Main St, Lexington, KY 40508, United States", "Street": "647 W Main St", "Zipcode": 40508, "Phone": "(859) 252-0904", "Latitude": 38.052891, "Longitude": -84.503916, "Hours": null, "SNAP": "Unknown" }, "geometry": { "type": "Point", "coordinates": [ -84.503916, 38.052891 ] } },
+{ "type": "Feature", "properties": { "Name": "C & P Market", "Address": "1000 Manchester St, Lexington, KY 40508, United States", "Street": "1000 Manchester St", "Zipcode": 40508, "Phone": "(859) 231-9040", "Latitude": 38.053390, "Longitude": -84.511571, "Hours": "5:30am-7:00pm week", "SNAP": "Yes" }, "geometry": { "type": "Point", "coordinates": [ -84.511571, 38.05339 ] } },
+{ "type": "Feature", "properties": { "Name": "Pak-N-Save Market", "Address": "503 East 3rd St, Lexington, KY 40508, United States", "Street": "503 East 3rd St", "Zipcode": 40508, "Phone": "(859) 252-0051", "Latitude": 38.044619, "Longitude": -84.485084, "Hours": "6:00am-8:00pm week", "SNAP": "Yes" }, "geometry": { "type": "Point", "coordinates": [ -84.485084, 38.044619 ] } },
+{ "type": "Feature", "properties": { "Name": "M & M Grocery", "Address": "398 East 5th St, Lexington KY 40508, United States", "Street": "398 East 5th St", "Zipcode": 40508, "Phone": "(859) 252-8866", "Latitude": 38.047868, "Longitude": -84.483769, "Hours": "8:00am-8:00pm weekly", "SNAP": "Yes" }, "geometry": { "type": "Point", "coordinates": [ -84.483769, 38.047868 ] } }
+]
+}

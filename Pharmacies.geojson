@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"data_type":"Dataset",
+"metadata":{
+    "title":"Pharmacies",
+    "description":"This dataset contains the location of pharmacies as of Spring 2015.\n",
+    "extent":[-82.7867,36.3145,-76.1781,38.3637],
+    "geometry_types":["point"],
+    "links":{
+        "kml":"//newmaps.uky.edu/sites/default/files/Pharmacies.kml",
+        "zip":"//newmaps.uky.edu/sites/default/files/Pharmacies.zip",
+        "geoJSON":"//newmaps.uky.edu/sites/default/files/Pharmacies.geojson"
+    }
+},
+
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                               
+"features": [
+{ "type": "Feature", "properties": { "Name": "Lex Fay Co Health Dept", "Address": "650 Newtown Pike", "City": "Lexington", "State": "KY", "Type": "Pharmacy", "X": -84.498530, "Y": 38.064750 }, "geometry": { "type": "Point", "coordinates": [ -84.4985258, 38.0647476 ] } },
+{ "type": "Feature", "properties": { "Name": "Rite Aid", "Address": "130 W Loudon Ave.", "City": "Lexington", "State": "KY", "Type": "Pharmacy", "X": -84.483920, "Y": 38.058990 }, "geometry": { "type": "Point", "coordinates": [ -84.4839165, 38.0589927 ] } },
+{ "type": "Feature", "properties": { "Name": "Kroger", "Address": "704 E Euclid Ave.", "City": "Lexington", "State": "KY", "Type": "Pharmacy", "X": -84.492920, "Y": 38.030790 }, "geometry": { "type": "Point", "coordinates": [ -84.4929157, 38.0307927 ] } },
+{ "type": "Feature", "properties": { "Name": "Rite Aid", "Address": "878 E High St.", "City": "Lexington", "State": "KY", "Type": "Pharmacy", "X": -84.490670, "Y": 38.028150 }, "geometry": { "type": "Point", "coordinates": [ -84.490665, 38.0281532 ] } },
+{ "type": "Feature", "properties": { "Name": "Wal-Mart", "Address": "500 W New Circle Rd.", "City": "Lexington", "State": "KY", "Type": "Pharmacy", "X": -84.480510, "Y": 38.069960 }, "geometry": { "type": "Point", "coordinates": [ -84.480508, 38.0699636 ] } },
+{ "type": "Feature", "properties": { "Name": "CVS", "Address": "118 E New Circle Rd.", "City": "Lexington", "State": "KY", "Type": "Pharmacy", "X": -84.470330, "Y": 38.064410 }, "geometry": { "type": "Point", "coordinates": [ -84.4703289, 38.0644097 ] } },
+{ "type": "Feature", "properties": { "Name": "Tricare", "Address": "1051 Newtown Pike", "City": "Lexington", "State": "KY", "Type": "Pharmacy", "X": -84.495010, "Y": 38.077100 }, "geometry": { "type": "Point", "coordinates": [ -84.4950098, 38.0771017 ] } },
+{ "type": "Feature", "properties": { "Name": "Kroger", "Address": "1650 Bryan Station Rd.", "City": "Lexington", "State": "KY", "Type": "Pharmacy", "X": -84.461200, "Y": 38.058300 }, "geometry": { "type": "Point", "coordinates": [ -84.461195, 38.0582991 ] } },
+{ "type": "Feature", "properties": { "Name": "Walgreens", "Address": "260 E New Circle Rd.", "City": "Lexington", "State": "KY", "Type": "Pharmacy", "X": -84.466450, "Y": 38.060510 }, "geometry": { "type": "Point", "coordinates": [ -84.4664528, 38.0605111 ] } },
+{ "type": "Feature", "properties": { "Name": "Rite Aid", "Address": "1307 Winchester Rd.", "City": "Lexington", "State": "KY", "Type": "Pharmacy", "X": -84.457960, "Y": 38.043520 }, "geometry": { "type": "Point", "coordinates": [ -84.4579627, 38.0435151 ] } },
+{ "type": "Feature", "properties": { "Name": "Sam's Club", "Address": "1045 E New Circle Rd.", "City": "Lexington", "State": "KY", "Type": "Pharmacy", "X": -84.454020, "Y": 38.037110 }, "geometry": { "type": "Point", "coordinates": [ -84.4540225, 38.0371087 ] } },
+{ "type": "Feature", "properties": { "Name": "D & R Pharmacare", "Address": "921 Beasley St.", "City": "Lexington", "State": "KY", "Type": "Pharmacy", "X": -84.448350, "Y": 38.041340 }, "geometry": { "type": "Point", "coordinates": [ -84.44835, 38.041337 ] } }
+]
+}
