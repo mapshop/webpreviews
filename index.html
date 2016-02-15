@@ -132,11 +132,17 @@
 		
 		        onEachFeature: function(feature, layer) {   
 		            var props = layer.feature.properties;
+		            var popupcontent = "";
 		            
-		            layer.bindPopup("<b>"+props.display+"</b>");
+		            $.each(props, function(fieldName, fieldValue){
+		            	popupcontent += "<b>"+fieldName+":</b>"+fieldValue + "<br/>";
+		            })
+		            
+		            layer.bindPopup(popupcontent);
 		                
 		        }
 		    }).addTo(map);
+		    
 		    
 		    $('.panel-title .title').text(data.metadata.title);
 		    $('.panel-body .description').html(data.metadata.description);
